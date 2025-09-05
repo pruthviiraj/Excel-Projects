@@ -40,7 +40,7 @@ Key challenges included:
 ## Reports Developed  
 
 ### Sales Reports  
-- [Customer Net Sales Performance]([Reports/Customer%20Net%20Sales%20Performance.pdf](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Customer%20Net%20Sales%20Perfomance%20Repoet.pdf))  
+- [Customer Net Sales Performance](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Customer%20Net%20Sales%20Perfomance%20Repoet.pdf)  
 - [Division Level Report]([Reports/Division%20Level%20Report.pdf](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Division%20Level%20Report.pdf))  
 - [Market Performance vs Target]([Reports/Market%20Performance%20Report.pdf](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Market%20Performance%20Report.pdf))
 - [Top 10 Products]([Reports/Top%2010%20Products.pdf](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Top%2010%20Products.pdf))
