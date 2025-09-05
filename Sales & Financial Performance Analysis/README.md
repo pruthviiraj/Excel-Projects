@@ -41,16 +41,16 @@ Key challenges included:
 
 ### Sales Reports  
 - [Customer Net Sales Performance](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Customer%20Net%20Sales%20Perfomance%20Repoet.pdf)  
-- [Division Level Report]([Reports/Division%20Level%20Report.pdf](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Division%20Level%20Report.pdf))  
-- [Market Performance vs Target]([Reports/Market%20Performance%20Report.pdf](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Market%20Performance%20Report.pdf))
-- [Top 10 Products]([Reports/Top%2010%20Products.pdf](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Top%2010%20Products.pdf))
-- [Top & Bottom 5 Products]([Reports/Top%20%26%20Bottom%205%20Products.pdf](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Top%20%26%20Bottom%205%20Products.pdf))  
+- [Division Level Report](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Division%20Level%20Report.pdf)  
+- [Market Performance vs Target](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Market%20Performance%20Report.pdf)
+- [Top 10 Products](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Top%2010%20Products.pdf)
+- [Top & Bottom 5 Products](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/Top%20%26%20Bottom%205%20Products.pdf)  
   
 
 ### Finance Reports  
 - [P&L by Fiscal Year](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/P%20%26%20L%20by%20Fiscal%20Year.pdf) 
-- [P&L by Fiscal Quarters]([Reports/P%20%26%20L%20for%20Fiscal%20Quarters.pdf](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/P%20%26%20L%20for%20Fiscal%20Quarters.pdf))  
-- [P&L by Market]([Reports/P%20%26%20L%20for%20Markets.pdf](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/P%20%26%20L%20for%20Markets.pdf))  
+- [P&L by Fiscal Quarters](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/P%20%26%20L%20for%20Fiscal%20Quarters.pdf)  
+- [P&L by Market](https://github.com/pruthviiraj/Excel-Projects/blob/main/Sales%20%26%20Financial%20Performance%20Analysis/P%20%26%20L%20for%20Markets.pdf)  
 
 ---
 
