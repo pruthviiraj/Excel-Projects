@@ -1,4 +1,4 @@
-# 📊 Capstone Churn Analysis
+# Capstone Churn Analysis
 
 This project analyzes customer churn for a telecom company, identifying patterns, reasons, and actionable insights.
 
