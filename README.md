@@ -1,7 +1,3 @@
-Based on the structure of your [Excel-Projects](https://github.com/pruthviiraj/Excel-Projects) repository, here is a professional, human-centric README designed to showcase your data storytelling skills.
-
----
-
 # Excel-Projects: Data Storytelling Through Spreadsheets
 
 Welcome! This repository is a curated collection of my end-to-end data analysis projects built entirely within **Microsoft Excel**.
